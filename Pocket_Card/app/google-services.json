@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "632969049056",
+    "project_id": "pocket-card-e12ca",
+    "storage_bucket": "pocket-card-e12ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632969049056:android:667ba57c800fce9fa6f185",
+        "android_client_info": {
+          "package_name": "com.example.pocket_card"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632969049056-sr86ke3aqr00p9upn9gj1ak9m7n9up8m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pocket_card",
+            "certificate_hash": "a3888db2d32a3ad819f42f8b2d22e03e4f8d2312"
+          }
+        },
+        {
+          "client_id": "632969049056-obmfouk1njt7tmt117vd3mmkhm4nuafk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUkWNQVDLknOJUD3DY-5S2xa8JSdoVjus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632969049056-obmfouk1njt7tmt117vd3mmkhm4nuafk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
